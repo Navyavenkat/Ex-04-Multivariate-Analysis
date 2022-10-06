@@ -45,9 +45,6 @@ Save the final data set into the file.
 #PROGRAM:
 
 
-Program developed by :V.NAVYA
-Register number : 212221230069
-
 ```
 import pandas as pd
 import numpy as np
